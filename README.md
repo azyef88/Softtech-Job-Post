@@ -1,4 +1,4 @@
-# Softtech-Job-Post
+# Softtech-Job-Post (Remote)
 Softtech Job Post
 | _Position_  | _Location_ | _Application Link_ |
 |-------------|------------|---------------------|
